@@ -8,5 +8,4 @@
 * [စိုင်းထီးဆိုင် ဟု နာမည်ပြောင်းလဲခြင်း](chage-his-name.md)
 * [စိုင်းထီးဆိုင် ၏ ဘဝအတ္ထုပ္ပတ္တိ နှင့် ကိုယ်ရေးအကျဥ်းချုပ်](bio-burmese.md)
 * [ထွက်ရှိခဲ့သော တေးစီးရီးများ](album-list.md)
-* [saihteesaing/actor-life.md at main · mgyannainglin/saihteesaing](untitled-2.md)
 
