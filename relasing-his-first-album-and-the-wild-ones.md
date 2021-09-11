@@ -1,7 +1,5 @@
 # သီချင်းများ စတင်ဖြန့်ချီခြင်း နှင့် The Wild Ones \(သဘာဝရဲ့ ရင်သွေးငယ်များ\)
 
-[Permalink](https://github.com/mgyannainglin/saihteesaing/blob/235ecddf723456ea87820f573ab1091c65c1a24a/starting-pro-singer.md)
-
 Cannot retrieve contributors at this time
 
 ## ကိုယ်ပိုင်သီချင်းများ စတင်ဖြန့်ချီခြင်း နှင့် The Wild Ones \(သဘာဝရဲ့ ရင်သွေးငယ်များ\)

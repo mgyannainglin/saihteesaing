@@ -1,7 +1,5 @@
 # ထွက်ရှိခဲ့သော တေးစီးရီးများ
 
-[Permalink](https://github.com/mgyannainglin/saihteesaing/blob/a99353704c02d1e1e5aa880544dacfbdef6e1e18/album-lists.md)
-
 Cannot retrieve contributors at this time
 
 ## ထွက်ရှိခဲ့သော တေးစီးရီးများ
