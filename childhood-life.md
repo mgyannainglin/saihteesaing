@@ -1,7 +1,5 @@
 # စိုင်းထီးဆိုင် ငယ်ဘဝ
 
-[Permalink](https://github.com/mgyannainglin/saihteesaing/blob/decad37a0d456c135230e61bf416768fdbdb05ae/early-life.md)
-
 Cannot retrieve contributors at this time
 
 ## ငယ်ဘဝ
