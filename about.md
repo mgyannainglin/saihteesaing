@@ -1,4 +1,4 @@
-##short biography of Sai Htee Saing (English)
+### Short biography of Sai Htee Saing (English)
 
 Sai Htee Saing (Burmese: စိုင်းထီးဆိုင် [sáɪɰ̃ tʰí sʰàɪɰ̃]; 23 September 1950 – 10 March 2008; born Sai Tin U) was a distinguished Burmese singer and songwriter of Shan descent, which featured prominently throughout his music career. Throughout his career, he recorded two to three Shan language albums and 30 to 40 Burmese language albums.[1] He was especially known for composing country music. Vital composer of Sai Htee Saing's songs is Sai Kham Leik.[2]
 
