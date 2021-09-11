@@ -2,7 +2,7 @@
 
 * [About this blog](README.md)
 * [Short biography of Sai Htee Saing \(English\)](biography-english-language.md)
-* [စိုင်းထီးဆိုင် ငယ်ဘဝ](untitled.md)
+* [စိုင်းထီးဆိုင် ငယ်ဘဝ](childhood-life.md)
 * [သီချင်းများ စတင်ဖြန့်ချီခြင်း နှင့် The Wild Ones \(သဘာဝရဲ့ ရင်သွေးငယ်များ\)](relasing-his-first-album-and-the-wild-ones.md)
 * [အထက်တန်းကျောင်းသား ဘဝ နှင့် တက္ကသိုလ် ကျောင်းသား ဘဝ](student-life.md)
 * [စိုင်းထီးဆိုင် ဟု နာမည်ပြောင်းလဲခြင်း](chage-his-name.md)
