@@ -1,37 +1,37 @@
 # GitHub
 
-main Switch branches/tagsCould not load branchesNothing to show [{{ refName }} default](https://github.com/mgyannainglin/saihteesaing/tree/{{%20urlEncodedRefName%20}}) [**1** branch](branches.md) [**0** tags](releases.md)
+main Switch branches/tagsCould not load branchesNothing to show [ default](https://github.com/mgyannainglin/saihteesaing/tree/{{%20urlEncodedRefName%20}}) [**1** branch]() [**0** tags]()
 
- Code
+Code
 
-*  Clone
+* Clone
 
-   Use Git or checkout with SVN using the web URL.
+  Use Git or checkout with SVN using the web URL.
 
-*  [Open with GitHub Desktop](https://desktop.github.com/)
-*  [Download ZIP](archive/refs/heads/bad-request-github.md)
+* [Open with GitHub Desktop](https://desktop.github.com/)
+* [Download ZIP]()
 
 ### Latest commit
 
- [![@mgyannainglin](https://avatars.githubusercontent.com/u/61822567?s=48&v=4)](https://github.com/mgyannainglin)
+[![@mgyannainglin](https://avatars.githubusercontent.com/u/61822567?s=48&v=4)](https://github.com/mgyannainglin)
 
-[mgyannainglin](commits/) [add readme](commit/add-readme-b56a52b.md)
+[mgyannainglin]() [add readme]()
 
- [b56a52b](commit/add-readme-b56a52b.md)[Sep 11, 2021](commit/add-readme-b56a52b.md)
+[b56a52b]()[Sep 11, 2021]()
 
-[add readme](commit/add-readme-b56a52b.md)
+[add readme]()
 
 `b56a52b`
 
 ### Git stats
 
-*  [ **2** commits](commits/commits.md)
+* [ **2** commits]()
 
 ### Files <a id="files"></a>
 
-[Permalink](tree/github-at-b56a52bb24ac7bfe52728ffe0c7f4d4dfcf72bc4.md)
+[Permalink]()
 
- Failed to load latest commit information.
+Failed to load latest commit information.
 
 Type
 
@@ -41,19 +41,19 @@ Latest commit message
 
 Commit time
 
-[README.md](blob/main/saihteesaing-readme.md-at-main.md)
+[README.md]()
 
- [add readme](commit/add-readme-b56a52b.md)
-
-Sep 11, 2021
-
-[about.md](blob/main/saihteesaing-about.md-at-main.md)
-
- [add readme](commit/add-readme-b56a52b.md)
+[add readme]()
 
 Sep 11, 2021
 
-###  [README.md]()
+[about.md]()
+
+[add readme]()
+
+Sep 11, 2021
+
+### [README.md](./)
 
 ## saihteesaing
 
@@ -61,18 +61,17 @@ This repo is about of U Htee
 
 ### About
 
- No description, website, or topics provided.
+No description, website, or topics provided.
 
 #### Resources
 
- [Readme]()
+[Readme](./)
 
-###  [Releases](releases-1.md)
+### [Releases]()
 
 No releases published
 
-###  [Packages](https://github.com/users/mgyannainglin/packages?repo_name=saihteesaing)
+### [Packages](https://github.com/users/mgyannainglin/packages?repo_name=saihteesaing)
 
- No packages published  
-
+No packages published
 
