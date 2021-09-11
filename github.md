@@ -53,7 +53,7 @@ Sep 11, 2021
 
 Sep 11, 2021
 
-###  [README.md]()
+###  [README.md](github.md#readme)
 
 ## saihteesaing
 
@@ -65,7 +65,7 @@ This repo is about of U Htee
 
 #### Resources
 
- [Readme]()
+ [Readme](github.md#readme)
 
 ###  [Releases](releases-1.md)
 
