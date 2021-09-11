@@ -1,6 +1,5 @@
 # Table of contents
 
-* [GitHub](README.md)
-* [About this blog](untitled.md)
+* [About this blog](README.md)
 * [About U Htee \(English\)](untitled-1.md)
 
