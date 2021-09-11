@@ -1,4 +1,4 @@
-# saihteesaing/actor-life.md at main
+# သရုပ်ဆောင်ဘဝနှင့်နောက်ဆုံး တေးအယ်ဘမ်
 
 [Permalink](https://github.com/mgyannainglin/saihteesaing/blob/0fe859669c9cabc50b5bfefb4c6a170a4c44a282/actor-life.md)
 
