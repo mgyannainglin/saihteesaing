@@ -7,5 +7,5 @@
 * [အထက်တန်းကျောင်းသား ဘဝ နှင့် တက္ကသိုလ် ကျောင်းသား ဘဝ](student-life.md)
 * [စိုင်းထီးဆိုင် ဟု နာမည်ပြောင်းလဲခြင်း](chage-his-name.md)
 * [စိုင်းထီးဆိုင် ၏ ဘဝအတ္ထုပ္ပတ္တိ နှင့် ကိုယ်ရေးအကျဥ်းချုပ်](bio-burmese.md)
-* [saihteesaing/album-lists.md at main · mgyannainglin/saihteesaing](album-list.md)
+* [ထွက်ရှိခဲ့သော တေးစီးရီးများ](album-list.md)
 
