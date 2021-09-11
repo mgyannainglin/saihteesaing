@@ -1,5 +1,7 @@
 # စိုင်းထီးဆိုင် ဟု နာမည်ပြောင်းလဲခြင်း
 
+[Permalink](https://github.com/mgyannainglin/saihteesaing/blob/63ff67cfb01ee3e96937f154be797129c738aac8/change-name.md)
+
 Cannot retrieve contributors at this time
 
 ## အမည်ပြောင်းခြင်း
