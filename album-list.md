@@ -1,5 +1,7 @@
 # ထွက်ရှိခဲ့သော တေးစီးရီးများ
 
+[Permalink](https://github.com/mgyannainglin/saihteesaing/blob/20ac9acd1a5cccf48daedd65d5680dc2605ec6b5/album-lists.md)
+
 Cannot retrieve contributors at this time
 
 ## ထွက်ရှိခဲ့သော တေးစီးရီးများ
@@ -96,6 +98,5 @@ Cannot retrieve contributors at this time
 ၈၉။ ယင်းမာရဲ့ "စိုင်းထီးစိုင်" - ၁
 ၉၀။ ယင်းမာရဲ့ "စိုင်းထီးစိုင်" - ၂
 ၉၁။ တွဲဖက်ကောင်း (နန်းခမ်းနွဲ့လိတ်)
-
 ```
 
