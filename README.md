@@ -10,9 +10,8 @@
 
 This blog is about Sai Htee Saing who is my best-loved singer. I believe most of the people are from Myanmar will familiar with his songs not only oldies also among young people. _**Sayar Sai Khan Leik**_, he is one of my favourite composer as well.
 
-### 
 
-#### All the informations were referenced from wiki.
+#### © All the informations were referenced from wiki.
 
-#### [Ref-wiki-URL](https://my.wikipedia.org/wiki/%E1%80%85%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8%E1%80%91%E1%80%AE%E1%80%B8%E1%80%86%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA?fbclid=IwAR0xYYC1YT9rUu-ipAbS3Wlymtv3C1YZp-GizgNUTQJcIv-P67QSkKZOl08)
+#### [ref-wiki-URL](https://my.wikipedia.org/wiki/%E1%80%85%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA%E1%80%B8%E1%80%91%E1%80%AE%E1%80%B8%E1%80%86%E1%80%AD%E1%80%AF%E1%80%84%E1%80%BA?fbclid=IwAR0xYYC1YT9rUu-ipAbS3Wlymtv3C1YZp-GizgNUTQJcIv-P67QSkKZOl08 "wikipedia link of Sai Htee Saing")
 
