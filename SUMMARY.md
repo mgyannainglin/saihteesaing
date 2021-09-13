@@ -10,4 +10,5 @@
 * [ထွက်ရှိခဲ့သော တေးစီးရီးများ](album-list.md)
 * [သရုပ်ဆောင်ဘဝနှင့်နောက်ဆုံး တေးအယ်ဘမ်](actor-life-and-his-last-album.md)
 * [စိုင်းထီးဆိုင် ၏ ဘဝနိဂုံး](final-part.md)
+* [index](untitled.md)
 
