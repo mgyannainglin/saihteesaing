@@ -2,7 +2,7 @@
 ## နွဲ့တင်အတွက်သီချင်းတစ်ပုဒ်(သို့မဟုတ်) ဒေါက်တာစိုင်းခမ်းလိတ်၏ သမုဒယရုပ်ပုံလွှာ
 
 
-![photo of sayar-sai-khan-laik](sayar-sai-khan-laik.jpg)
+![photo of sayar-sai-khan-leik](sayar-sai-khan-laik.jpg)
 
 #### ဦးထီး အကြောင်း ပြောရင် ဆရာ စိုင်းခမ်းလိတ် အကြောင်းက မပါမပြီး ဆိုသလို ပါပဲ။
 #### အခု တခေါက်မှာ တော့ ဦးထီး (စိုင်းထီးဆိုင်) သီဆို ပြီး ဆရာ စိုင်းခမ်းလိတ်  ရေးသားထားတဲ့ နွဲ့တင် သီချင်း ဖြစ်ပေါ်လာပုံကို ဖတ်ရှု ကြရမှာ ဖြစ်ပါတယ်။
@@ -18,5 +18,4 @@
 
 Ref- © content were copied from Facebook
 
-click-the-icon-for-listen
-[🎧](https://soundcloud.com/user-357364716/zfzjcp3rmmhq) 
+click this icon [🎧](https://soundcloud.com/user-357364716/zfzjcp3rmmhq) for listen
