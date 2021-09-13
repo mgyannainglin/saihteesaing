@@ -2,7 +2,7 @@
 
 ## နွဲ့တင်အတွက်သီချင်းတစ်ပုဒ်\(သို့မဟုတ်\) ဒေါက်တာစိုင်းခမ်းလိတ်၏ သမုဒယရုပ်ပုံလွှာ
 
-![Photo of Sayar Sai Khan Laik](.gitbook/assets/sayar-sai-khan-laik.jpg)
+![Photo of Sayar Sai Khan Leik](.gitbook/assets/sayar-sai-khan-laik.jpg)
 
 ### ဦးထီး အကြောင်း ပြောရင် ဆရာ စိုင်းခမ်းလိတ် အကြောင်းက မပါမပြီး ဆိုသလို ပါပဲ။
 
