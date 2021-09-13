@@ -11,4 +11,5 @@
 * [သရုပ်ဆောင်ဘဝနှင့်နောက်ဆုံး တေးအယ်ဘမ်](actor-life-and-his-last-album.md)
 * [စိုင်းထီးဆိုင် ၏ ဘဝနိဂုံး](final-part.md)
 * [သိပ်သိပ်ချစ်ရတဲ့ နွဲ့တင်ရယ်](a-song-for-aunty-nwe-tin.md)
+* [index](hello.md)
 
