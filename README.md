@@ -1,4 +1,3 @@
-# testing sync
 
 # Sai Htee Saing
 
