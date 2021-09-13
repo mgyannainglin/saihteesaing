@@ -1,6 +1,6 @@
 # သိပ်သိပ်ချစ်ရတဲ့ နွဲ့တင်ရယ်
 
-![photo of Sayar Sai Khan Leik](.gitbook/assets/sayar-sai-khan-laik.jpg)
+![Photo of Sayar Sai Khan Leik](.gitbook/assets/sayar-sai-khan-laik.jpg)
 
 ## နွဲ့တင်အတွက်သီချင်းတစ်ပုဒ်(သို့မဟုတ်) ဒေါက်တာစိုင်းခမ်းလိတ်၏ သမုဒယရုပ်ပုံလွှာ
 
