@@ -1,6 +1,0 @@
-# index
-
-hello
-
-123
-
